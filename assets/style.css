@@ -248,6 +248,16 @@ p {
     margin-bottom: 20pt;
 }
 
+/*Case Study 2 page */
+
+.quoteTry {
+
+    font-family: 'Open Sans', sans-serif;
+    font-size: 22pt; 
+    font-weight: 400;  
+    font-style: italic;
+}
+
 /* Case Study 3 page */
 
 .leadQuestionRemoteClassrooms {
